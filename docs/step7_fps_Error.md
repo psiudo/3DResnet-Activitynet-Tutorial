@@ -5,7 +5,8 @@
 - 코드는 다음과 같다.
 
   
-'def get_video_ids_annotations_and_fps(data, subset):
+'
+def get_video_ids_annotations_and_fps(data, subset):
     video_ids = []
     annotations = []
     fps_values = []
@@ -18,4 +19,5 @@
             fps_values.append(value.get('fps', 30))
 
     return video_ids, annotations, fps_values
-    ...'
+    ...
+  '

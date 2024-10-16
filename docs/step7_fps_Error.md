@@ -3,6 +3,8 @@
 를 실행했더니 fps관련 에러 발생
 - 따라서, activitynet.py 파일의  get_video_ids_annotations_and_fps 함수에서 get을 추가하는 부분에 넣어준다.
 - 코드는 다음과 같다.
+
+  
 'def get_video_ids_annotations_and_fps(data, subset):
     video_ids = []
     annotations = []

@@ -8,5 +8,5 @@ label 변수는 정의되지 않았고, 이로 인해 TypeError가 발생한다.
                 label = annotations[i][0]['label']  # 첫 번째 레이블 사용
             else:
                 label = 'unknown'  # 레이블이 없을 경우 기본값 사용
-  
+'
 를 추가

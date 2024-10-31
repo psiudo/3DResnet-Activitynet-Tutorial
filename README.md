@@ -11,7 +11,7 @@
 3. 실행 및 설정 가이드
 
 ## 프로젝트 구조
-- [**docs/First_training_Attempt.md**](docs/First_training_Attempt.md): 첫번째 3D ResNet 및 ActivityNet 학습 과정의 전체 단계가 포함된 파일
+- [**docs/First_Training_Attempt.md**](docs/First_Training_Attempt.md): 첫번째 3D ResNet 및 ActivityNet 학습 과정의 전체 단계가 포함된 파일
 - **scripts/**: 다운로드 및 변환에 필요한 스크립트 파일
 - **requirements.txt**: 프로젝트에 필요한 라이브러리 목록
 
